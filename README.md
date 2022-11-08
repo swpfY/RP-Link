@@ -13,6 +13,8 @@
 
 <img src="./static/RP-Link.jpg" alt="RP-Link" style="float:left;" width="300"  ></img>
 
+> PCB设计参考自：[raspberry pi pico](https://www.raspberrypi.com/documentation/microcontrollers/) 和 [EnvOpenPico](https://github.com/Envious-Data/EnvOpenPico)
+
 ## 更多
 
 [使用 CLion 调试树莓派 Pico](./doc/使用CLion调试树莓派Pico.md)
