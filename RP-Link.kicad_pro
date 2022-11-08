@@ -397,7 +397,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "static/RP-Link.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
