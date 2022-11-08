@@ -11,7 +11,7 @@
 
 - 引脚定义如下图：
 
-<img src="./static/RP-Link.jpg" alt="RP-Link" style="zoom:40%;float:left;"  ></img>
+<img src="./static/RP-Link.jpg" alt="RP-Link" style="float:left;" width="300"  ></img>
 
 ## 更多
 
