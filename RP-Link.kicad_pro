@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -53,6 +53,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.15,
+          "via_gap": 0.0,
+          "width": 0.4
         }
       ],
       "drc_exclusions": [
@@ -128,8 +133,9 @@
       "track_widths": [
         0.0,
         0.15,
+        0.2,
         0.32,
-        0.8
+        0.4
       ],
       "via_dimensions": [
         {
@@ -151,10 +157,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "pin_not_driven|1435100|596900|a0100b65-f593-4be2-97c8-050bcc18fdfb|00000000-0000-0000-0000-000000000000",
-      "pin_not_driven|1587500|533400|a0100b65-f593-4be2-97c8-050bcc18fdfb|00000000-0000-0000-0000-000000000000"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -371,9 +374,9 @@
       {
         "bus_width": 12.0,
         "clearance": 0.2,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.15,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.4,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
